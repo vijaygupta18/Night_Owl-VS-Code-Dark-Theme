@@ -17,7 +17,7 @@ ScreenShots:
 
 ![pic](1.JPG)
 
-![pic2](2.JPG)
+
 
 
 
