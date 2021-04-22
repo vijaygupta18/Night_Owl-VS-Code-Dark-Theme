@@ -1,0 +1,21 @@
+{
+    "name": "night-owl",
+    "displayName": "Night-Owl Dark-Theme",
+    "description": "VS Code Dark theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night-Owl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/customtheme.json"
+            }
+        ]
+    }
+}
