@@ -1,6 +1,6 @@
 {
 	"name": "Custom Dark theme",
-	"type": "Dark Contrast",
+	"type": "Dark Contrast Theme",
 	"colors": {
 		"editor.background": "#0C1021",
 		"editor.foreground": "#f8f8f8",
